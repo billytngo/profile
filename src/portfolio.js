@@ -173,10 +173,10 @@ const workExperiences = {
       date: "Dec 2017 – Present",
       desc: "",
       descBullets: [
-        "Design and code new features for QAD Digital Commerce (WebJaguar) where users can shop / customize / checkout items as is any eCommerce website, and site admins can fully control / customize the website (such as layouts, products, categories, shipping, etc..).",
+        "Develop QAD Digital Commerce platform which is serving B2C or B2B websites where users / vendors can go shopping online as any eCommerce website; and site admins can fully control / customize the website (such as layouts, categories, products, customers, orders, shipping, etc..).",
         "Maintain code / Troubleshoot issues / Code Review and Team Collaboration.",
         "Develop Business Rule Builder to automate related-data backend jobs.",
-        "Develop Artwork Visualization algorithm to identify main colors for a given logo (aka Imprint Method color identification tool)."
+        "Develop Artwork Visualization Tool to identify main colors automatically from a user logo to make final imprints in production."
       ]
     },
     {
@@ -198,8 +198,10 @@ const workExperiences = {
       date: "Oct 2011 – Oct 2013",
       desc: "",
       descBullets: [
-        "Work on Python Selenium RC to automate the modification of data (in JSON) for Graduate School of Education: Continuing Education – CEED.",
-        "Develop and manage PHP (Drupal 7) websites. Tasks include coding in back-end (PHP, Python, Bash Scripting), front-end (HTML, CSS, JavaScript, Jquery, JqueryUI), theming, customizing Drupal 7 modules, fixing bugs and also researching web open-source technologies."
+        "Develop / Customize PSU-client Drupal websites with back-end (PHP, Bash Scripting), and front-end (HTML, CSS, JavaScript, Jquery, JqueryUI).",
+        "Work on Python Selenium RC to automate the modification of data (in JSON) for Graduate School of Education (Continuing Education - CEED).",
+        "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration.",
+        "Research web open-source technologies and web security techniques."
       ]
     }
   ]
