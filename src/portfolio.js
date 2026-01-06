@@ -23,7 +23,7 @@ const greeting = {
   username: "Billy Ngo",
   title: "Hi all, I'm Billy",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 (also a generic Coding Lover) having an experience of building Web applications with Java / Maven / Grails / JavaScript / Knockout and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 (also a generic Coding Lover) having an experience of building Web applications with Java / Maven / Grails / JavaScript / KnockoutJS and some other cool libraries and frameworks."
   ),
   showResume: true, // Set false to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -174,9 +174,9 @@ const workExperiences = {
       desc: "",
       descBullets: [
         "Develop QAD Digital Commerce platform which is serving B2C or B2B websites where users / vendors can go shopping online as any eCommerce website; and site admins can fully control / customize the website (such as layouts, categories, products, customers, orders, shipping, etc..).",
-        "Maintain code / Troubleshoot issues / Code Review and Team Collaboration.",
         "Develop Business Rule Builder to automate related-data backend jobs.",
-        "Develop Artwork Visualization Tool to identify main colors automatically from a user logo to make final imprints in production."
+        "Develop Artwork Visualization Tool to identify main colors automatically from a user logo to make final imprints in production.",
+        "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration."
       ]
     },
     {
@@ -188,7 +188,8 @@ const workExperiences = {
       descBullets: [
         "Develop / Integrate self-service web-based PeakPortal where users can pay their billings and manage their subscriptions.",
         "Integrate PeakPortal with Zuora REST / SOAP API as core framework, and Salesforce API for CRM contacts.",
-        "Write Netsuite custom script upon client requirements."
+        "Write Netsuite custom script upon client requirements.",
+        "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration."
       ]
     },
     {
@@ -200,8 +201,8 @@ const workExperiences = {
       descBullets: [
         "Develop / Customize PSU-client Drupal websites with back-end (PHP, Bash Scripting), and front-end (HTML, CSS, JavaScript, Jquery, JqueryUI).",
         "Work on Python Selenium RC to automate the modification of data (in JSON) for Graduate School of Education (Continuing Education - CEED).",
-        "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration.",
-        "Research web open-source technologies and web security techniques."
+        "Research web open-source technologies and web security techniques.",
+        "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration."
       ]
     }
   ]
