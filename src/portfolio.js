@@ -170,7 +170,7 @@ const workExperiences = {
       role: "Senior Software Engineer",
       company: "QAD",
       companylogo: require("./assets/images/qad.png"),
-      date: "Dec 2017 – Present",
+      date: "Dec 2017 – Jan 2026",
       desc: "",
       descBullets: [
         "Develop QAD Digital Commerce platform which is serving B2C or B2B websites where users / vendors can go shopping online as any eCommerce website; and site admins can fully control / customize the website (such as layouts, categories, products, customers, orders, shipping, etc..).",
