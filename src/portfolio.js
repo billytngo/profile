@@ -167,7 +167,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Senior Software Engineer",
+      role: "Software Engineer",
       company: "QAD",
       companylogo: require("./assets/images/qad.png"),
       date: "Dec 2017 – Jan 2026",
