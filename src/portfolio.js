@@ -173,7 +173,7 @@ const workExperiences = {
       date: "Dec 2017 – Jan 2026",
       desc: "",
       descBullets: [
-        "Develop QAD Digital Commerce platform which is serving B2C or B2B websites where users / vendors can go shopping online as any eCommerce website; and site admins can fully control / customize the website (such as layouts, categories, products, customers, orders, shipping, etc..).",
+        "Develop QAD Digital Commerce platform which is serving B2C or B2B websites where users / vendors can go shopping online, and admins can fully control / customize the website (such as layouts, categories, products, customers, orders, shipping, etc..).",
         "Develop Business Rule Builder to automate related-data backend jobs.",
         "Develop Artwork Visualization Tool to identify main colors automatically from a user logo to make final imprints in production.",
         "Maintenance Fix / Troubleshooting / Code Review and Team Collaboration."
@@ -240,7 +240,7 @@ const bigProjects = {
       image: require("./assets/images/peak-commerce.png"),
       projectName: "PeakPortal",
       projectDesc:
-        "The Leading Subscription Ecommerce Platform. Imagine a platform that customizes the subscriber journey for every shopper, eliminating distractions along the way. Welcome to Digital Journey Monetization.",
+        "A platform built in Grails framework to support selling subscriptions and allowing customers to manage their subscriptions online. The platform provides a powerful customization with subscription journeys, which can satisfy every client requirement with out of the box features.",
       footerLink: [
         {
           name: "Visit Website",
@@ -253,7 +253,7 @@ const bigProjects = {
       image: require("./assets/images/qad-digital-commerce.png"),
       projectName: "QAD Digital Commerce",
       projectDesc:
-        "Sell your products online and manage your customers, inventory, shipments quotes and invoices. Digitally transform your business with a powerful and scalable e-commerce and marketing automation solution for B2B and B2C.",
+        "A platform built in Java Maven to support selling products online and managing customers, inventory, shipments, quotes and invoices. The platform provides a powerful and scalable solution to support ecommerce and marketing automation business for both B2B and B2C customers.",
       footerLink: [
         {
           name: "Visit Website",
